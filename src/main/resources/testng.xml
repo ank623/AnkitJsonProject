@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Json Suite">
+	<test name="Json test">
+
+		<classes>
+			<class name="com.json.testcases.ForeignPlayerTest" />
+			<class name="com.json.testcases.WicketKeeperTest" />
+		</classes>
+
+	</test>
+
+</suite>

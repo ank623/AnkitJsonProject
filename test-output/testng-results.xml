@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-27T16:07:23 IST" name="Json Suite" finished-at="2023-02-27T16:07:23 IST" duration-ms="105">
+    <groups>
+    </groups>
+    <test started-at="2023-02-27T16:07:23 IST" name="Json test" finished-at="2023-02-27T16:07:23 IST" duration-ms="105">
+      <class name="com.json.testcases.WicketKeeperTest">
+        <test-method signature="checkWicketKeeper()[pri:0, instance:com.json.testcases.WicketKeeperTest@4229bb3f]" started-at="2023-02-27T16:07:23 IST" name="checkWicketKeeper" finished-at="2023-02-27T16:07:23 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWicketKeeper -->
+      </class> <!-- com.json.testcases.WicketKeeperTest -->
+      <class name="com.json.testcases.ForeignPlayerTest">
+        <test-method signature="checkForeignPlayer()[pri:0, instance:com.json.testcases.ForeignPlayerTest@5fbdfdcf]" started-at="2023-02-27T16:07:23 IST" name="checkForeignPlayer" finished-at="2023-02-27T16:07:23 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkForeignPlayer -->
+      </class> <!-- com.json.testcases.ForeignPlayerTest -->
+    </test> <!-- Json test -->
+  </suite> <!-- Json Suite -->
+</testng-results>
